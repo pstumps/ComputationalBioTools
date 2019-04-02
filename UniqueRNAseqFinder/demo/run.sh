@@ -1,0 +1,1 @@
+python3 ../findUnique.py bos-tRNA-7.fa 

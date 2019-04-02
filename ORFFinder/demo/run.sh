@@ -1,0 +1,1 @@
+python3 ../findOrfs.py tass2.fa tass2ORFdata-ATG-100.txt

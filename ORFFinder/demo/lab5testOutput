@@ -1,0 +1,3 @@
+Namespace(inFile='lab5test.fa', longestGene=False, minGene=0, outFile='lab5testOutput', start=['ATG'], stop=['TAG', 'TGA', 'TAA'])
+test-3A
+-3     3..    9     7 
